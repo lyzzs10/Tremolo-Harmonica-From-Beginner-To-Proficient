@@ -35,7 +35,7 @@
   复音口琴是本书的中心，是演奏者常用的口琴，也称高音口琴（一个很重要的事情,一般我们看到的口琴乐谱,大多采用简谱,若使用五线谱来记谱的话,**乐谱上实际音高将与口琴音高相差八度**）
   分别有20孔、21孔、23孔、28孔以及我们最常用的24孔，有整整三十六个调（大调，自然小调，和声小调）
 
-  ![21~24孔音阶图](URL=https://github.com/lyzzs10/Tremolo-Harmonica-From-Beginner-To-Proficient/blob/main/images/a-1%2021%E5%AD%94-24%E5%AD%94%E9%9F%B3%E9%98%B6%E5%9B%BE.png)
+  ![21~24孔音阶图](https://github.com/lyzzs10/Tremolo-Harmonica-From-Beginner-To-Proficient/blob/main/images/a-1%2021%E5%AD%94-24%E5%AD%94%E9%9F%B3%E9%98%B6%E5%9B%BE.png)
   
 
   2.重音口琴
